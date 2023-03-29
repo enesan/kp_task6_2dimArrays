@@ -1,0 +1,17 @@
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp6\2dimArrays\2dimArrays\bin\Debug\net6.0-windows\2dimArrays.exe
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp6\2dimArrays\2dimArrays\bin\Debug\net6.0-windows\2dimArrays.deps.json
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp6\2dimArrays\2dimArrays\bin\Debug\net6.0-windows\2dimArrays.runtimeconfig.json
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp6\2dimArrays\2dimArrays\bin\Debug\net6.0-windows\2dimArrays.dll
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp6\2dimArrays\2dimArrays\bin\Debug\net6.0-windows\2dimArrays.pdb
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp6\2dimArrays\2dimArrays\obj\Debug\net6.0-windows\2dimArrays.csproj.AssemblyReference.cache
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp6\2dimArrays\2dimArrays\obj\Debug\net6.0-windows\_2dimArrays.Form1.resources
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp6\2dimArrays\2dimArrays\obj\Debug\net6.0-windows\2dimArrays.csproj.GenerateResource.cache
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp6\2dimArrays\2dimArrays\obj\Debug\net6.0-windows\2dimArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp6\2dimArrays\2dimArrays\obj\Debug\net6.0-windows\2dimArrays.AssemblyInfoInputs.cache
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp6\2dimArrays\2dimArrays\obj\Debug\net6.0-windows\2dimArrays.AssemblyInfo.cs
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp6\2dimArrays\2dimArrays\obj\Debug\net6.0-windows\2dimArrays.csproj.CoreCompileInputs.cache
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp6\2dimArrays\2dimArrays\obj\Debug\net6.0-windows\2dimArrays.dll
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp6\2dimArrays\2dimArrays\obj\Debug\net6.0-windows\refint\2dimArrays.dll
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp6\2dimArrays\2dimArrays\obj\Debug\net6.0-windows\2dimArrays.pdb
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp6\2dimArrays\2dimArrays\obj\Debug\net6.0-windows\2dimArrays.genruntimeconfig.cache
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp6\2dimArrays\2dimArrays\obj\Debug\net6.0-windows\ref\2dimArrays.dll
