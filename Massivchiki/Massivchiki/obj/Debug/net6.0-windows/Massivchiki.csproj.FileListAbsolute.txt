@@ -1,0 +1,17 @@
+C:\Users\shara\source\repos\AlexASharikov\kp_task6_2dimArrays\Massivchiki\Massivchiki\bin\Debug\net6.0-windows\Massivchiki.exe
+C:\Users\shara\source\repos\AlexASharikov\kp_task6_2dimArrays\Massivchiki\Massivchiki\bin\Debug\net6.0-windows\Massivchiki.deps.json
+C:\Users\shara\source\repos\AlexASharikov\kp_task6_2dimArrays\Massivchiki\Massivchiki\bin\Debug\net6.0-windows\Massivchiki.runtimeconfig.json
+C:\Users\shara\source\repos\AlexASharikov\kp_task6_2dimArrays\Massivchiki\Massivchiki\bin\Debug\net6.0-windows\Massivchiki.dll
+C:\Users\shara\source\repos\AlexASharikov\kp_task6_2dimArrays\Massivchiki\Massivchiki\bin\Debug\net6.0-windows\Massivchiki.pdb
+C:\Users\shara\source\repos\AlexASharikov\kp_task6_2dimArrays\Massivchiki\Massivchiki\obj\Debug\net6.0-windows\Massivchiki.csproj.AssemblyReference.cache
+C:\Users\shara\source\repos\AlexASharikov\kp_task6_2dimArrays\Massivchiki\Massivchiki\obj\Debug\net6.0-windows\Massivchiki.Form1.resources
+C:\Users\shara\source\repos\AlexASharikov\kp_task6_2dimArrays\Massivchiki\Massivchiki\obj\Debug\net6.0-windows\Massivchiki.csproj.GenerateResource.cache
+C:\Users\shara\source\repos\AlexASharikov\kp_task6_2dimArrays\Massivchiki\Massivchiki\obj\Debug\net6.0-windows\Massivchiki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shara\source\repos\AlexASharikov\kp_task6_2dimArrays\Massivchiki\Massivchiki\obj\Debug\net6.0-windows\Massivchiki.AssemblyInfoInputs.cache
+C:\Users\shara\source\repos\AlexASharikov\kp_task6_2dimArrays\Massivchiki\Massivchiki\obj\Debug\net6.0-windows\Massivchiki.AssemblyInfo.cs
+C:\Users\shara\source\repos\AlexASharikov\kp_task6_2dimArrays\Massivchiki\Massivchiki\obj\Debug\net6.0-windows\Massivchiki.csproj.CoreCompileInputs.cache
+C:\Users\shara\source\repos\AlexASharikov\kp_task6_2dimArrays\Massivchiki\Massivchiki\obj\Debug\net6.0-windows\Massivchiki.dll
+C:\Users\shara\source\repos\AlexASharikov\kp_task6_2dimArrays\Massivchiki\Massivchiki\obj\Debug\net6.0-windows\refint\Massivchiki.dll
+C:\Users\shara\source\repos\AlexASharikov\kp_task6_2dimArrays\Massivchiki\Massivchiki\obj\Debug\net6.0-windows\Massivchiki.pdb
+C:\Users\shara\source\repos\AlexASharikov\kp_task6_2dimArrays\Massivchiki\Massivchiki\obj\Debug\net6.0-windows\Massivchiki.genruntimeconfig.cache
+C:\Users\shara\source\repos\AlexASharikov\kp_task6_2dimArrays\Massivchiki\Massivchiki\obj\Debug\net6.0-windows\ref\Massivchiki.dll
